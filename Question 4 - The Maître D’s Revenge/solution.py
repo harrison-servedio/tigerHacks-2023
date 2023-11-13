@@ -1,3 +1,5 @@
+# Written by Jaymin Ding, Katia Ohmacht, and Xindi Liu from Rye Country Day
+
 directions = list(map(int, input().split()))
 m = list(map(int, input().split()))
 fridge = []
