@@ -1,0 +1,5 @@
+Input:
+30
+cookiescakebreadsconescupcakes
+Output:
+ccccceeeeessssaaakkkooobdinpru

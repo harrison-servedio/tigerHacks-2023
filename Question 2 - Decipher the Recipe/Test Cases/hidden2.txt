@@ -1,0 +1,5 @@
+Input:
+29
+eggsbuttermilkcreamsugarflour
+Output:
+rrrreeeggguuuaallmmssttbcfiko
