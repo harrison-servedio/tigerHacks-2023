@@ -1,0 +1,6 @@
+Input:
+16
+3
+FF12
+Output:
+10
