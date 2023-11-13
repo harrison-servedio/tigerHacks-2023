@@ -1,4 +1,4 @@
-# Written by Jaymin Ding, Katia Ohmacht, and Xindi Liu from Rye Country Day
+# Written by Jaymin Ding, Katia Ohmacht, and Xindi Liu from the Rye Country Day School
 
 directions = list(map(int, input().split()))
 m = list(map(int, input().split()))
